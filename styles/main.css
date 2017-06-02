@@ -1,0 +1,18 @@
+#navImg {
+  height: 100px;
+}
+.navButton {
+  height: 100px;
+  line-height: 100px;
+}
+
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/03/71/42/037142104e9cbc5ffe4cef1229306ffc.jpg");
+}
+.blogText {
+  background-color: white;
+  opacity: 0.5;
+  margin: 20px;
+  padding:20px;
+  
+}
